@@ -1,2 +1,3 @@
 ||urs.smartscreen.microsoft.com
 ||urs.microsoft.com
+||events.gfe.nvidia.com
