@@ -1,3 +1,9 @@
 ||urs.smartscreen.microsoft.com
 ||urs.microsoft.com
 ||events.gfe.nvidia.com
+||lightstep.kaizen.nvidia.com
+||international-gfe.download.nvidia.com
+||www.nvidia.com
+||images.nvidia.com
+||gfwsl.geforce.com
+||gx-target-experiments-frontend-api.gx.nvidia.com
