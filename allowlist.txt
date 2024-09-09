@@ -7,3 +7,4 @@
 ||images.nvidia.com
 ||gfwsl.geforce.com
 ||gx-target-experiments-frontend-api.gx.nvidia.com
+||graph.oculus.com
