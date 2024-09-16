@@ -8,4 +8,4 @@
 ||gfwsl.geforce.com
 ||gx-target-experiments-frontend-api.gx.nvidia.com
 ||graph.oculus.com
-||vmd149432.contaboserver.net
+||contaboserver.net
