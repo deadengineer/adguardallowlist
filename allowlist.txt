@@ -9,3 +9,6 @@
 ||gx-target-experiments-frontend-api.gx.nvidia.com
 ||graph.oculus.com
 ||contaboserver.net
+||huggingface.co^
+||hf.co^
+||xethub.hf.co^
